@@ -1,0 +1,5 @@
+en9: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	ether 00:00:5e:00:53:02
+	inet 192.168.1.10 netmask 0xffffff00 broadcast 192.168.1.255
+	media: autoselect (1000baseT <full-duplex>)
+	status: active

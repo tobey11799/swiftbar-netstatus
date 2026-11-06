@@ -1,0 +1,1 @@
+ | sfimage=wifi.slash sfcolor=#ff3b30

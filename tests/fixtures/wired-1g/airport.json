@@ -1,0 +1,12 @@
+{
+  "SPAirPortDataType": [
+    {
+      "spairport_airport_interfaces": [
+        {
+          "_name": "en0",
+          "spairport_status_information": "spairport_status_off"
+        }
+      ]
+    }
+  ]
+}

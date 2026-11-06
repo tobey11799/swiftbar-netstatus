@@ -1,0 +1,20 @@
+{
+  "SPAirPortDataType": [
+    {
+      "spairport_airport_interfaces": [
+        {
+          "_name": "en0",
+          "spairport_status_information": "spairport_status_connected",
+          "spairport_current_network_information": {
+            "_name": "Office-5G",
+            "spairport_network_channel": "149 (5GHz, 80MHz)",
+            "spairport_network_phymode": "802.11ax",
+            "spairport_network_rate": 1200,
+            "spairport_security_mode": "spairport_security_mode_wpa2_personal",
+            "spairport_signal_noise": "-76 dBm / -90 dBm"
+          }
+        }
+      ]
+    }
+  ]
+}

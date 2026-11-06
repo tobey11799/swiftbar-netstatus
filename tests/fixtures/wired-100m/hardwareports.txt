@@ -1,0 +1,11 @@
+Hardware Port: Wi-Fi
+Device: en0
+Ethernet Address: 00:00:5e:00:53:01
+
+Hardware Port: USB 10/100/1000 LAN
+Device: en9
+Ethernet Address: 00:00:5e:00:53:02
+
+Hardware Port: Thunderbolt Bridge
+Device: bridge0
+Ethernet Address: 00:00:5e:00:53:03
